@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust, Golang, Java, Web3, Ethereum, Blockchain, Applied Cryptography
 - 🌱 I’m currently learning applied cryptogprahy
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me mail4metablocks@zoho
+- 📫 (https://rustlang6.wordpress.com/page/11/)
 
 <!---
 mail4metablocks/mail4metablocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
