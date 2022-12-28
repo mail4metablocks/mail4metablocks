@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Full Stack Software Engineer 
-- 👀 I’m interested in Rust, Golang, Java, Web3, Ethereum, Blockchain, Applied Cryptography
-- 🌱 I’m currently researching on advanced applied cryptogprahy models
+- 👋 Hi, GitHub
+- 👀 I’m interested in Rust, Golang, Java, Python, NestJS, React Web3, Ethereum, Blockchain, Applied Cryptography
+- 🌱 I’m currently researching on advanced applied cryptogprahy protocols
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 (https://rustlang6.wordpress.com/page/11/)
 
