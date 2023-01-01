@@ -1,6 +1,6 @@
 - 👋 Hi, GitHub
-- 👀 I’m Open Source Contributor and interested in Rust, Golang, Java, Python, NestJS, React Web3, Ethereum, Blockchain, Applied Cryptography
-- 🌱 I’m currently researching on advanced applied cryptogprahy protocols
+- 👀 I’m Open Source Contributor and interested in Rust, Golang, Java, Python, NestJS, React Web3, Ethereum, Blockchain, Applied Cryptography & Cybersecurity
+- 🌱 I’m currently researching on advanced applied cryptogprahy protocols, Cybersecurity 
 - 💞️ I’m ready to collaborate on any new open source projects, if you need any assistance please email me
 - 📫 (https://rustlang6.wordpress.com/page/11/)
 
