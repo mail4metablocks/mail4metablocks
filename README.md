@@ -2,9 +2,7 @@
  
 📫 Check out latest blog posts: https://rustlang6.wordpress.com/page/11/
 
-                                      
-                     
-![comp](https://user-images.githubusercontent.com/117555665/210180787-b2291b96-499f-435e-9b48-3d74c00c8eb9.gif)
+                                     
 
 <!---
 mail4metablocks/mail4metablocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
